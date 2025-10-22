@@ -27,33 +27,19 @@ It features a database view for detailed information and an interactive chart th
 
 ---
 
-## 🗂️ Project Structure
-
-countly/
-├── README.md
-├── screenshots/
-│ ├── user-database-view.png
-│ ├── user-count-chart.png
-│ ├── user-count-filtered.png
-└── sample-data/
-└── App sheet e-tablo - gorev1.csv
-
-
----
-
 ## 📸 Screenshots
 
 ### 🧾 User Database View
 Displays the full list of users, including names, IDs, and signup timestamps.  
-![User Database](screenshots/user-database-view.png)
+![User Database](1.png)
 
 ### 📊 User Count Chart
 Shows user signup activity and cumulative growth across time.  
-![User Count Chart](screenshots/user-count-chart.png)
+![User Count Chart](2.png)
 
 ### 🔍 Filtered Chart View
 Allows narrowing down the results by date range.  
-![Filtered Chart](screenshots/user-count-filtered.png)
+![Filtered Chart](3.png)
 
 ---
 
@@ -68,7 +54,8 @@ Example dataset used in this project:
 | Burak      | 84329    | L'Oréal: Content Dilemma | 2023-11-29 22:36:45 |
 | Cemre      | 46259    | Arabam.com: Son Sürat Büyüme | 2023-11-15 05:45:12 |
 
-📁 Located in:   /sample-data/App sheet e-tablo - gorev1.csv
+📁 Located in:  `App sheet e-tablo - gorev1.csv`
+
 
 
 ---
@@ -95,7 +82,7 @@ Example dataset used in this project:
 
 ## 👩‍💻 Author
 
-**Developed by:** [Gözde Şavkın](https://github.com/Gozde03) 
+**Developed by:** [ Gözde Şavkın ](https://github.com/Gozde03) 
  *Built as a no-code data visualization project combining design, analytics, and creativity.*
 
 ---
