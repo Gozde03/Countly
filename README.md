@@ -54,8 +54,6 @@ Example dataset used in this project:
 | Burak      | 84329    | L'Oréal: Content Dilemma | 2023-11-29 22:36:45 |
 | Cemre      | 46259    | Arabam.com: Son Sürat Büyüme | 2023-11-15 05:45:12 |
 
-📁 Located in:  `App sheet e-tablo - gorev1.csv`
-
 
 
 ---
