@@ -83,6 +83,7 @@ Example dataset used in this project:
 ## 👩‍💻 Author
 
 **Developed by:** [ Gözde Şavkın ](https://github.com/Gozde03) 
+
  *Built as a no-code data visualization project combining design, analytics, and creativity.*
 
 ---
